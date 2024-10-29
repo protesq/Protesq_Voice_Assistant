@@ -1,5 +1,5 @@
 
-# Sesli Asistan Uygulaması
+# Protesq Voice Assistant
 
 Bu proje, Python ve Tkinter kullanılarak geliştirilen bir sesli asistan uygulamasıdır. Uygulama, mikrofon aracılığıyla kullanıcının sesli komutlarını dinler ve çeşitli görevleri yerine getirir. Örneğin, Google’da arama yapma, çöp kutusunu boşaltma veya masaüstündeki belirli bir uygulamayı açma işlemlerini gerçekleştirebilir.
 
@@ -35,17 +35,9 @@ Uygulama, sesli komutlar aracılığıyla çalışır. Tkinter GUI’sinde "Dinl
 1. Python kodunu çalıştırın:
 
    ```bash
-   python sesli_asistan.py
+   python protesq_voice.py
    ```
 
 2. Uygulama açıldığında, `Dinle` butonuna tıklayın.
 3. Mikrofonunuza sesli komutlar vererek uygulamayı kontrol edin.
 
-## Dosya Yapısı
-
-- `sesli_asistan.py`: Ana uygulama dosyası.
-  
-## Öne Çıkan Özellikler
-
-- Tkinter tabanlı GUI.
-- Google'da arama yapma, çöp kutusunu boşaltma ve masaüstünde belirli uygulamaları sesli komutla açma.
