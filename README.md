@@ -16,7 +16,6 @@ pip install SpeechRecognition
 pip install pyaudio
 ```
 
-> **Not**: `pyaudio` kütüphanesi bazı sistemlerde doğrudan yüklenemeyebilir. Yüklemekte sorun yaşarsanız `pyaudio` için uyumlu bir tekerlek (`.whl` dosyası) indirip kurulum yapabilirsiniz. [PyAudio'u buradan indirebilirsiniz.](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 
 ## Kullanım
 
